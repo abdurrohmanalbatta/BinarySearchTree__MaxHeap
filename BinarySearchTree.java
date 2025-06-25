@@ -1,5 +1,4 @@
 
-package Main;
 import java.util.*;
 public class BinarySearchTree {
     Node root;
