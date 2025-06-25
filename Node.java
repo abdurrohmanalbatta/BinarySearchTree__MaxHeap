@@ -1,5 +1,4 @@
-package Main;
- 
+
 public class Node {
     public int data;
     public Node left;
